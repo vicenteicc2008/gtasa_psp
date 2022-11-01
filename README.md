@@ -1,2 +1,5 @@
 # gtasa_psp
-GTA SA from PC for psp
+Port GTA SA from PC to psp
+
+## status
+WORK IN PROGRESS
